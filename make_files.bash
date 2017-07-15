@@ -1,11 +1,17 @@
 #sean
 #Thu Jun 29 01:04:06 PDT 2017
 #make_files.bash
-#i made this file as a way of making things quicker for students and people in general in regards to making the 
+#I made this file as a way of making things quicker for students and people in general in regards to making the 
 #tedious file making process is easier
 
 
+#The way to work this is to run the bash script with all the .cpps as arguments. I plan to remove the requirement of appending
+#.cpp to the arguments but initially I was going a different way with this project.
+# I am unsure what I want to do if files already exist so you will need to delete your files if they already exist or they will 
+#append to the current file
+#if you want to make a file name class1.cpp class2.cpp class3.cpp you would run
 
+#bash make_files.bash class1.cpp class2.cpp class3.cpp 
 
 ######################################" normal @reg
 
